@@ -28,6 +28,6 @@ torchvision-nightly==0.2.1
 ujson==1.35
 urllib3==1.23
 Flask==0.12.2
-pip==18.1
+pip==21.1
 Jinja2==2.10
 twilio==2018.6
